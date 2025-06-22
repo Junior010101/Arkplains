@@ -35,23 +35,19 @@ Este projeto está em desenvolvimento com o intuito de aprender e aplicar:
 ## 🧰 Ferramentas Utilizadas
 
 - [![Libresprite](https://img.shields.io/badge/Libresprite-Pixel%20Art-blue)](https://libresprite.github.io)  
-  **Função:** Produção de sprites e tilesets.
-  
+  **Função:** Produção de sprites e tilesets.                    
   **Detalhe:** Criação de gráficos em pixel art.
 
 - [![Tiled](https://img.shields.io/badge/Tiled-Editor%20de%20Mapas-blue?logo=mapbox&logoColor=white)](https://www.mapeditor.org)  
-  **Função:** Criação de mapas abertos e interiores.
-  
+  **Função:** Criação de mapas abertos e interiores.              
   **Detalhe:** Ideal para layouts contínuos e detalhados.
 
 - [![LDtk](https://img.shields.io/badge/LDtk-Mapas%20de%20salas-orange?logo=ldtk&logoColor=black)](https://ldtk.io)  
-  **Função:** Criação de mapas de masmorras e cavernas.
-  
+  **Função:** Criação de mapas de masmorras e cavernas.               
   **Detalhe:** Organização modular de mapas segmentados.
 
 - [![Godot](https://img.shields.io/badge/Godot%20Engine-4.4.1-478cbf?logo=godotengine&logoColor=white)](https://godotengine.org)  
-  **Função:** Motor de jogo e lógica.
-  
+  **Função:** Motor de jogo e lógica.                                
   **Detalhe:** Implementação de gameplay, colisão e menus.
 
 ## 📦 Estrutura Inicial do Projeto
