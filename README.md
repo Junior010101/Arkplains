@@ -34,6 +34,10 @@ Este projeto está em desenvolvimento com o intuito de aprender e aplicar:
 
 ## 🧰 Ferramentas Utilizadas
 
+- [![Figma](https://img.shields.io/badge/Figma-Design-red?logo=figma&logoColor=white)](https://www.figma.com/)  
+  **Função:** Criação de interfaces e protótipos  
+  **Detalhe:** Design de layouts e esboços interativos
+
 - [![Libresprite](https://img.shields.io/badge/Libresprite-Pixel%20Art-blue)](https://libresprite.github.io)  
   **Função:** Produção de sprites e tilesets.                    
   **Detalhe:** Criação de gráficos em pixel art.
