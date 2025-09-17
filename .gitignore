@@ -1,3 +1,24 @@
 # Godot 4+ specific ignores
 .godot/
-/android/
+.import/
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# Godot C# build
+bin/
+obj/
+
+# Android
+android/
+
+# MacOS
+.DS_Store
+ios/
+
+# Rider
+.idea/
+*.sln.iml
